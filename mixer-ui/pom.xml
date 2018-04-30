@@ -21,7 +21,7 @@
         <sjs.run>run.js</sjs.run>
         <!-- -->
         <sjs.phase>prepare-package</sjs.phase>
-        <sjs.target>${project.build.directory}/scala-js</sjs.target>
+        <sjs.target>${project.build.directory}</sjs.target>
         <!-- -->
         <sjs.main.classes>${project.build.directory}/classes</sjs.main.classes>
         <sjs.test.classes>${project.build.directory}/test-classes</sjs.test.classes>
